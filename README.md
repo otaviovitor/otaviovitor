@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Otavio Vitor! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 <div align="center" >
   <a href="https://github.com/otaviovitor">
-  <img height="180em" style="margin-rigth: 10px" src="https://github-readme-streak-stats.herokuapp.com/?user=otaviovitor&layout=compact&langs_count=7&theme=midnight-purple"/>         
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviovitor&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src='https://github-readme-streak-stats.herokuapp.com?user=otaviovitor&theme=tokyonight_duo&hide_border=true&border_radius=14&locale=pt-br&date_format=n%2Fj%5B%2FY%5D'/>         
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviovitor&layout=compact&langs_count=7&theme=transparent&hide_border=true"/>
 </div>
   
  ### 🧑‍💻 Tecnologias
