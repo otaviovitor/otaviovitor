@@ -13,7 +13,10 @@
   <img align="center" alt="otavio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="otavio-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="otavio-TAILWIND" height="120" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
-  <img align="right" alt="OTAVIO-PIC" height="150" style="border-radius: 50px;" src="https://media-exp1.licdn.com/dms/image/C4D03AQEvxPH81KnLnw/profile-displayphoto-shrink_800_800/0/1658002905805?e=1672272000&v=beta&t=WLeAIdkcFuAJYH-2CqUqaEnB7XAu_lWKCwdxVXWs_k4">
+  <img align="right" alt="OTAVIO-PIC" height="150" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
+  
+
+  
 </div>
   
   ##
